@@ -30,7 +30,7 @@ workflowSchedule:
   graphs: "*/5 * * * *"
   #responseTime: "0 23 * * *"
   #staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
+  #summary: "*/5 * * * *"
   #updateTemplate: "*/5 * * * *"
   #updates: "*/5 * * * *"
   uptime: "*/5 * * * *"
