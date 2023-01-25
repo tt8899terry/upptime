@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://andrew.github.io/upptime)
+[**Visit our status website →**](https://tt8899terry.github.io/upptime)
 
 ## 📄 License
 
