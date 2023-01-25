@@ -34,6 +34,5 @@ status-website:
   updateTemplate: "*/5 * * * *"
   updates: "*/5 * * * *"
   uptime: "*/5 * * * *"
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
