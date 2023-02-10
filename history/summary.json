@@ -42,18 +42,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 331,
-    "timeWeek": 380,
-    "timeMonth": 290,
-    "timeYear": 290,
-    "dailyMinutesDown": {}
+    "time": 291,
+    "timeDay": 406,
+    "timeWeek": 375,
+    "timeMonth": 291,
+    "timeYear": 291,
+    "dailyMinutesDown": {
+      "2023-02-10": 0
+    }
   },
   {
     "name": "just payd ping",
