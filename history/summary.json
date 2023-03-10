@@ -60,7 +60,7 @@
     "url": "https://www.justpayd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.justpayd.com.ico",
     "slug": "just-payd-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 239,
     "timeMonth": 254,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   }
 ]
