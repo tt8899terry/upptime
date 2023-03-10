@@ -60,19 +60,19 @@
     "url": "https://www.justpayd.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.justpayd.com.ico",
     "slug": "just-payd-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 209,
-    "timeWeek": 246,
-    "timeMonth": 255,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 257,
+    "timeDay": 184,
+    "timeWeek": 234,
+    "timeMonth": 251,
+    "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-03-10": 0
+      "2023-03-10": 37
     }
   }
 ]
